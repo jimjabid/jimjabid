@@ -10,10 +10,10 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Jabid;..a%20Web%20Developer%20passionate%20about%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E311&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Jabid;%20Web%20Developer%20passionate%20about%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E311&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="blank"><img align="center" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/57e04ebe-aac1-4e37-84b7-fda881b3af00/public" alt="rishavchanda" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
