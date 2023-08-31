@@ -1,4 +1,5 @@
-[![MasterHead](https://cutewallpaper.org/21/matrix-background-gif/Free-Binary-Code-4K-Long-Loop-Screensaver-GIF.gif)]
+![MasterHead](https://cutewallpaper.org/21/matrix-background-gif/Free-Binary-Code-4K-Long-Loop-Screensaver-GIF.gif)
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cutewallpaper.org/21/matrix-background-gif/Free-Binary-Code-4K-Long-Loop-Screensaver-GIF.gif" width="1475" height="829">
 ![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg)
 ### Hi there 👋
 
