@@ -20,9 +20,15 @@
 
 <br/>
 
-- 🔭 I’m currently working on [the-wave-project](https://github.com/jimjabid/the-wave-project-v1)
+👋 I am a passionate learner who embarked on my coding journey in 2021. Since that first line of code, I've been on a thrilling adventure, exploring the vast realm of web development. 🌐
 
-- 🌱 I’m currently learning **GLSL;11Ty**
+🚀 My journey has led me through the fascinating landscapes of HTML, CSS, and JavaScript, and I've deepened into various frameworks and libraries to craft amazing web experiences. I'm particularly in love with unique and awe-inspiring designs, often drawing inspiration from the remarkable sites featured on Awwwards. 🌟
+
+🌈 My love for animated websites led me to GSAP, and now I'm happily experimenting with GLSL to bring even more magic to the web. ✨
+
+🌍 In my experiences, I worked in IT as level 2 support for global a company, troubleshooting and making tech work seamlessly. I also ventured into the high-end retail world, providing exceptional service on cruise ships. Now, I'm thrilled to merge my diverse experiences with my newfound coding skills. 🛳️
+
+📚 I'm constantly hungry for knowledge and excited about the endless possibilities in the world of code.
 
 - 👨‍💻 All of my projects are available at [https://jimjabid.github.io/jabid-portfolio-vite/](https://jimjabid.github.io/jabid-portfolio-vite/)
 
@@ -30,7 +36,7 @@
 
 - 📫 How to reach me **jabidandresjimenezserrano@gmail.com**
 
-- 📄 Know about my experiences [2 years experienced IT professional; 1 year Experience working on Cruiseships on retail sales.](2 years experienced IT professional; 1 year Experience working on Cruiseships on retail sales.)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
