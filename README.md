@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td>![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg)</td>
+    <td><img src="https://profile-counter.glitch.me/jimjabid/count.svg" alt="" /></td>
   </tr>
 </table>
 
