@@ -1,5 +1,5 @@
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/code-running-typing-hacking-cxndn71tvntslswj.webp" width="850" height="350">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/code-running-typing-hacking-cxndn71tvntslswj.webp" width="850" height="200">
 
 ![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg)
 ### Hi there 👋
