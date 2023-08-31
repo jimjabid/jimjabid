@@ -1,5 +1,6 @@
 [![MasterHead]([https://gifer.com/P2P0](https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif))]
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif">
 
 ![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg)
 ### Hi there 👋
