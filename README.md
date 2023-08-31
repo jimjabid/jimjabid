@@ -1,7 +1,7 @@
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/code-running-typing-hacking-cxndn71tvntslswj.webp" width="850" height="200">
 
-### Hi there visitor number: ![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg)
+<div style="display: flex; justify-content: center; "align-items-center";>  Hi there visitor number: ![Visitor Count](https://profile-counter.glitch.me/{jimjabid}/count.svg) </div>
 
 
 <!--
