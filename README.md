@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Jabid;%20Web%20Developer%20passionate%20about%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E311&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Jabid;..a%20Web%20Developer%20passionate%20about%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E311&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/linkedin-2-xxl.png" alt="Jabid-Jimenez" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
