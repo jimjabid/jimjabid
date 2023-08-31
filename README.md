@@ -13,10 +13,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Jabid;%20Web%20Developer%20passionate%20about%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00E311&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/linkedin-2-xxl.png" alt="rishavchanda" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/linkedin-2-xxl.png" alt="Jabid-Jimenez" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/jabidjim/" target="blank"><img align="center" src="https://i.pinimg.com/564x/71/1b/1b/711b1bf6c1e08d7553a0038095370c6e.jpg" alt="jabidjim" height="30" width="40" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+
 </p>
 
 <br/>
