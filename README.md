@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/linkedin-2-xxl.png" alt="Jabid-Jimenez" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/jabidjim/" target="blank"><img align="center" src="https://i.pinimg.com/564x/71/1b/1b/711b1bf6c1e08d7553a0038095370c6e.jpg" alt="jabidjim" height="30" width="40" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/jabidjim/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/instagram-xxl.png" alt="jabidjim" height="30" width="40" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
