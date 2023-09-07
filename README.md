@@ -20,15 +20,13 @@
 
 <br/>
 
-👋 I am a passionate learner who embarked on my coding journey in 2021. Since that first line of code, I've been on a thrilling adventure, exploring the vast realm of web development. 🌐
+Hello! I'm a passionate learner who embarked on my coding journey in 2021. Since that first line of code, I've been on an exciting adventure, exploring web development with HTML, CSS, and JavaScript, delving into various frameworks and libraries to craft amazing web experiences. I particularly enjoy creating unique and inspiring designs, often drawing inspiration from sites featured on Awwwards.
 
-🚀 My journey has led me through the fascinating landscapes of HTML, CSS, and JavaScript, and I've deepened into various frameworks and libraries to craft amazing web experiences. I'm particularly in love with unique and awe-inspiring designs, often drawing inspiration from the remarkable sites featured on Awwwards. 🌟
+I have a special love for animated websites, and I'm currently experimenting with GLSL to add even more magic to the web.
 
-🌈 My love for animated websites led me to GSAP, and now I'm happily experimenting with GLSL to bring even more magic to the web. ✨
+In my professional experiences, I've worked in IT as level 2 support for a global company, troubleshooting and ensuring smooth tech operations. I've also ventured into the high-end retail world, providing exceptional service on cruise ships. Now, I'm thrilled to merge my diverse experiences with my newfound coding skills.
 
-🌍 In my experiences, I worked in IT as level 2 support for global a company, troubleshooting and making tech work seamlessly. I also ventured into the high-end retail world, providing exceptional service on cruise ships. Now, I'm thrilled to merge my diverse experiences with my newfound coding skills. 🛳️
-
-📚 I'm constantly hungry for knowledge and excited about the endless possibilities in the world of code.
+I'm constantly hungry for knowledge and excited about the endless possibilities in the world of code.
 
 - 👨‍💻 All of my projects are available at [https://jimjabid.github.io/jabid-portfolio-vite/](https://jimjabid.github.io/jabid-portfolio-vite/)
 
