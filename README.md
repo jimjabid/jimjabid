@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jabid-jimenez-serrano-960215175/" target="_blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/linkedin-2-xxl.png" alt="Jabid-Jimenez" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/jabidjim/" target="_blank"><img align="center" src="https://www.iconsdb.com/icons/preview/green/instagram-xxl.png" alt="jabidjim" height="30" width="40" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
 
 <br/>
